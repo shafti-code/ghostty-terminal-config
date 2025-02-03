@@ -1,1 +1,1 @@
-![screenshot](https://github.com/shafti-code/ghostty-termial-config/showcase.png)
+![screenshot](https://github.com/shafti-code/ghostty-terminal-config/blob/main/showcase.png)
