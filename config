@@ -1,0 +1,17 @@
+# theme = Argonaut 
+# theme = Aura 
+# theme = 3024 Night
+# theme = ayu
+# theme = BlueBerryPie
+theme = Banana Blueberry
+cursor-style = block_hollow
+cursor-style-blink = false  
+window-decoration = false
+gtk-tabs-location = hidden
+gtk-adwaita = true
+gtk-titlebar = false 
+confirm-close-surface = false
+font-feature = -calt
+window-padding-balance = true
+shell-integration = zsh
+background = #291130
